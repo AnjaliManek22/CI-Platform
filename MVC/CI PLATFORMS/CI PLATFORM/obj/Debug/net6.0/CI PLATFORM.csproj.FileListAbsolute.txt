@@ -1,0 +1,62 @@
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\appsettings.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.staticwebassets.runtime.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.exe
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.deps.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.runtimeconfig.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.dll
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.pdb
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.csproj.AssemblyReference.cache
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.AssemblyInfoInputs.cache
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.AssemblyInfo.cs
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.csproj.CoreCompileInputs.cache
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.RazorAssemblyInfo.cache
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.RazorAssemblyInfo.cs
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.CI PLATFORM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.build.CI PLATFORM.props
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CI PLATFORM.props
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CI PLATFORM.props
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\scopedcss\bundle\CI PLATFORM.styles.css
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\scopedcss\projectbundle\CI PLATFORM.bundle.scp.css
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.dll
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\refint\CI PLATFORM.dll
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.pdb
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.genruntimeconfig.cache
+C:\Users\pca183\source\repos\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\ref\CI PLATFORM.dll
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\appsettings.Development.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\appsettings.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.staticwebassets.runtime.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.exe
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.deps.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.runtimeconfig.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.dll
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\bin\Debug\net6.0\CI PLATFORM.pdb
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.csproj.AssemblyReference.cache
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.AssemblyInfoInputs.cache
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.AssemblyInfo.cs
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.csproj.CoreCompileInputs.cache
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.RazorAssemblyInfo.cache
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.RazorAssemblyInfo.cs
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.CI PLATFORM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.build.CI PLATFORM.props
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CI PLATFORM.props
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CI PLATFORM.props
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\scopedcss\bundle\CI PLATFORM.styles.css
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\scopedcss\projectbundle\CI PLATFORM.bundle.scp.css
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.dll
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\refint\CI PLATFORM.dll
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.pdb
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\CI PLATFORM.genruntimeconfig.cache
+C:\Project\CI Platform\MVC\CI PLATFORMS\CI PLATFORM\obj\Debug\net6.0\ref\CI PLATFORM.dll
